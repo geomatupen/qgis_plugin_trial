@@ -1,0 +1,7 @@
+[general]
+name=MyFirstPlugin
+description=Simple form and button plugin
+version=0.2
+qgisMinimumVersion=3.0
+author=Your Name
+email=your@email.com
