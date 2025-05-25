@@ -1,7 +1,10 @@
 [general]
 name=MyFirstPlugin
-description=Simple form and button plugin
-version=0.2
+description=A simple form plugin with QGIS GUI
+version=1.0
 qgisMinimumVersion=3.0
 author=Your Name
 email=your@email.com
+homepage=https://github.com/geomatupen/qgis_plugin_trial
+tracker=https://github.com/geomatupen/qgis_plugin_trial/issues
+repository=https://github.com/geomatupen/qgis_plugin_trial.git
